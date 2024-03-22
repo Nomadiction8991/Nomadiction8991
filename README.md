@@ -37,6 +37,6 @@
 ## 📚 Estatísticas
 <br><br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomadiction8991&layout=compact&locale=pt-br&card_width=495&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomadiction8991&layout=compact&locale=pt-br&card_width=400&hide_title=true)
 <br>
-![Nomadiction8991's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nomadiction8991&hide_border=true&locale=pt-br&card_width=495)
+![Nomadiction8991's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nomadiction8991&hide_border=true&locale=pt-br&card_width=400)
