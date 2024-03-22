@@ -5,6 +5,13 @@
 👯 Estou colaborando com alguns projetos pessoais, e com alguns projetos com colegas de trabalho.<br>
 ⏱ Gosto muito da area é um passa tempo perfeito gosto muito de aplicações e sistemas desenvolvidos na WEB.<br>
 ⚡ Curiosidade: Alguns finais de semana e até mesmo finais do dias, gosto de revisar projetos e fazer algumas atualizações.<br>
+<br>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/weverton-pereira-andrade-b55226284" alt="LinkedIn"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weverton.andrade02?locale=pt_BR" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/weverton.andrade02/" alt="Instagram"/></a>
 <br><br><br><br>
 ## 💻 Linguagens e Tecnologias já Utilizadas por Mim:
 <br><br>
@@ -29,8 +36,7 @@
 <br><br><br><br>
 ## 📚 Estatísticas
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomadiction8991&show_icons=true&border_radius=5&locale=pt-br&hide_border=true&hide_title=true&hide_rank=false&show=discussions_started,discussions_answered&rank_icon=github&card_width=495)
-<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomadiction8991&layout=compact&locale=pt-br&card_width=495&hide_title=true)
 <br>
 ![Nomadiction8991's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nomadiction8991&hide_border=true&locale=pt-br&card_width=495)
