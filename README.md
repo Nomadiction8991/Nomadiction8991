@@ -27,7 +27,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br><br><br><br>
-## Estatísticas
+## 📚 Estatísticas
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomadiction8991&show_icons=true&border_radius=5&locale=pt-br&hide_border=true&hide_title=true&hide_rank=false&show=discussions_started,discussions_answered&rank_icon=github&card_width=495)
 <br>
